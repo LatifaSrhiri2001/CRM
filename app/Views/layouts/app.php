@@ -7,7 +7,7 @@
   <title></title>
 </head>
 
-<body style="background-color:#1E293B">>
+<body style="background-color:#1E293B">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
     integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg=="
     crossorigin="anonymous" referrerpolicy="no-referrer" />
@@ -49,8 +49,7 @@
             </svg>
           </button>
           <a href="https://flowbite.com" class="flex ms-2 md:me-24">
-            <img src="https://flowbite.com/docs/images/logo.svg" class="h-8 me-3" alt="FlowBite Logo" />
-            <span class="self-center text-xl font-semibold sm:text-2xl whitespace-nowrap text-white">Flowbite</span>
+             <span class="self-center text-xl font-semibold sm:text-2xl whitespace-nowrap text-white">Real Estate CRM</span>
           </a>
         </div>
         <div class="flex items-center">
@@ -86,7 +85,7 @@
   </nav>
 
   <aside id="logo-sidebar"
-    class="fixed top-0 left-0 z-40 w-64 h-screen pt-20 transition-transform -translate-x-full   sm:translate-x-0 border-r"
+    class="fixed top-0 left-0 z-40 w-64 h-screen pt-20 transition-transform -translate-x-full bg-gray-800  sm:translate-x-0 border-r"
     aria-label="Sidebar">
     <div class="h-full px-3 pb-4 overflow-y-auto">
       <ul class="space-y-2 font-medium">
@@ -148,26 +147,13 @@
     <!---------------------------- footer------------------------- -->
 
 
-    <footer class="   text-white  m-4   mt-14">
-      <div class="w-full mx-auto max-w-screen-xl p-4 md:flex md:items-center md:justify-between">
-        <span class="text-sm  sm:text-center ">© 2024 . All Rights Reserved.
-        </span>
-        <ul class="flex flex-wrap items-center mt-3 text-sm font-medium  sm:mt-0">
-
-          <li>
-            <a href="#" class="hover:underline">
-              <i class="fa-solid fa-paw"></i>
-              Evan <i class="fa-solid fa-paw"></i>
-            </a>
-          </li>
-        </ul>
-      </div>
-    </footer>
-  </main>
+    
+  
 
 
+  
 
+</main>
 
 </body>
-
 </html>

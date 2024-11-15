@@ -20,7 +20,7 @@
 <!-- ---------------------------search ---------------------------------- -->
  <div id="resultats"></div>
   <div class="relative overflow-x-auto text-white rounded-lg font-3xl p-8  shadow-lg" style="background-color:#141C2F">
-    <div class="flex flex-row justify-between mb-6">
+    <div class="flex sm:flex-row flex-col justify-between mb-6">
       <h1 class="text-white  font-bold text-2xl ">Contact</h1>
       <div class="buttons">
         <button data-modal-target="client-registration-modal" data-modal-toggle="client-registration-modal"
